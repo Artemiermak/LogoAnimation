@@ -140,7 +140,7 @@ header nav[role="navigation"] a[class="navbar-brand"] {
 
 header nav[role="navigation"] {
 
-	background-color: RGBA(255,255,255,0.95)!important;
+	background-color: RGBA(255,255,255,1)!important;
   background-image: none;
   border: 1px RGBA(245,245,245,0.5);
 }
@@ -445,3 +445,5 @@ section p {
 #contactForm {
   margin: 15px auto;
 }
+
+
